@@ -1,4 +1,4 @@
-# cs320-l
+# cs320-lab
 hello world
 
 
